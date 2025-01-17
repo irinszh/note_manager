@@ -1,6 +1,6 @@
 username = 'Ирина'
 title = 'Задание 1'
-content = 'Работать с переменными'
+content = 'Работа с переменными'
 status = 'Начало работы'
 created_date = '16.01.2025'
 issue_date = '31.03.2025'
